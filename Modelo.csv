@@ -1,0 +1,14 @@
+﻿title,description,label,priority,status,milestone,assignee
+"Definir problema, objetivo e benefícios",Descrição e objetivo do LabFlow; registrar premissas.,planejamento,P1-Alta,A fazer,Incremento 1 - Concepção e planejamento inicial,LN599
+Definir abordagem e ciclo de vida,Documentar abordagem híbrida e justificativa técnica.,planejamento,P1-Alta,A fazer,Incremento 1 - Concepção e planejamento inicial,LN599
+Elaborar Stakeholder Register,"Mapear stakeholders, interesse, poder, legitimidade, urgência e estratégia.",stakeholder,P1-Alta,A fazer,Incremento 1 - Concepção e planejamento inicial,LN599
+Aplicar Modelo de Saliência,"Classificar stakeholders conforme Mitchell, Agle e Wood.",stakeholder,P2-Média,A fazer,Incremento 1 - Concepção e planejamento inicial,LN599
+Montar Matriz de Engajamento,"Definir situação atual, desejada e ações de engajamento.",stakeholder,P2-Média,A fazer,Incremento 1 - Concepção e planejamento inicial,LN599
+Elaborar Business Case,"Consolidar problema, benefícios, investimento, custos e riscos.",financeiro,P1-Alta,A fazer,Incremento 1 - Concepção e planejamento inicial,LN599
+"Calcular VPL, TIR e Payback",Validar cálculos financeiros e interpretação gerencial.,financeiro,P1-Alta,A fazer,Incremento 1 - Concepção e planejamento inicial,LN599
+Construir Balanced Scorecard,"Relacionar objetivos, indicadores, metas e iniciativas.",planejamento,P2-Média,A fazer,Incremento 1 - Concepção e planejamento inicial,LN599
+Especificar requisitos RF e RNF,Cadastrar RF01-RF12 e RNF01-RNF08.,requisito,P1-Alta,A fazer,Incremento 1 - Concepção e planejamento inicial,LN599
+Definir fronteiras de escopo,Registrar itens dentro e fora do escopo.,escopo,P1-Alta,A fazer,Incremento 1 - Concepção e planejamento inicial,LN599
+Construir EAP/WBS e dicionário,Decompor escopo por entregáveis e detalhar pacotes.,escopo,P1-Alta,A fazer,Incremento 1 - Concepção e planejamento inicial,LN599
+Montar rede PDM,"Registrar atividades, predecessoras e tipos de dependência.",planejamento,P1-Alta,A fazer,Incremento 1 - Concepção e planejamento inicial,LN599
+Estimar esforço com Planning Poker,Registrar pontos das histórias e premissas de capacidade.,planejamento,P2-Média,A fazer,Incremento 1 - Concepção e planejamento inicial,LN599
