@@ -1,0 +1,9 @@
+ID;Risco;Categoria;Probabilidade;Impacto;Pontuacao;Classe;Responsavel;Gatilho;Consequencia
+R01;Regras de reserva inconsistentes;Requisitos / processo;4;5;20;Alta;GP / coordenação;Divergência entre grupos;Reservas conflitantes ou mudança de regras
+R02;Ambiente instável / indisponível;Tecnologia;3;4;12;Média;DevOps;Falhas no ambiente de teste;Atraso de homologação
+R03;Baixa adesão de docentes;Organização / pessoas;4;4;16;Alta;UX / coordenação;Pouco engajamento no piloto;Pouca utilização da solução
+R04;Falhas de privacidade / controle;Segurança;3;5;15;Alta;DevOps / QA;Acesso indevido detectado;Exposição de dados e bloqueio do aceite
+R05;Integração ou e-mail indisponível;Terceiros;3;3;9;Média;Desenvolvedor;Atraso de fornecedor/API;Notificações não entregues
+R06;Indisponibilidade de especialistas;Recursos;3;4;12;Média;GP;Conflito de alocação;Atraso de atividades
+R07;Crescimento não controlado do escopo;Gestão;4;4;16;Alta;GP / Sponsor;Solicitações fora da EAP;Custo e prazo ultrapassados
+R08;Sem janela para piloto acadêmico;Externo / calendário;4;3;12;Média;Coordenação;Turma não confirma data;Atraso no piloto e implantação

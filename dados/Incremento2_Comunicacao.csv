@@ -1,0 +1,9 @@
+Stakeholder;Informacao;Responsavel;Canal;Periodicidade
+Sponsor / direção;Prazo, orçamento, riscos altos e aprovações;Gerente de Projetos;Reunião de marco e ata;Quinzenal e por exceção
+Coordenação de laboratórios;Regras de reserva, protótipo e homologação;GP + UX;Reunião e GitHub Issue;Semanal
+Equipe técnica (6);Bloqueios, andamento, responsáveis e testes;GP e responsáveis técnicos;GitHub Projects e reunião;Duas vezes por semana
+QA / UX;Critérios de aceite, defeitos e feedback;GP;Issues e documentação;A cada entrega ou validação
+Docentes representantes;Fluxos, disponibilidade e piloto;UX + coordenação;Demonstração e formulário;Nas validações D e J
+Suporte de TI / DevOps;Infraestrutura, permissões, backup e piloto;DevOps;Issues e reunião técnica;Semanal e por marco
+Segurança / LGPD;Dados pessoais, acessos e auditoria;GP + DevOps;Checklist e parecer;Antes da homologação
+Estudantes / usuários;Orientações para piloto e implantação;Coordenação;Comunicado institucional;Antes do piloto
