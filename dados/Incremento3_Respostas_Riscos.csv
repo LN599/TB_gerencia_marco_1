@@ -1,0 +1,9 @@
+ID;Risco_original;Probabilidade;Impacto;Exposicao;Classe_original;Estrategia;Responsavel;Acao;Gatilho;Monitoramento
+R01;Regras de reserva inconsistentes;4;5;20;Alta;Mitigar;GP / coordenacao;Validar regras com grupos e testar conflitos;Divergencia entre grupos;Revisao semanal das regras e requisitos
+R02;Ambiente instavel / indisponivel;3;4;12;Media;Mitigar;DevOps;Ambiente alternativo e teste de backup;Falhas no ambiente de teste;Registro de disponibilidade e incidentes
+R03;Baixa adesao de docentes;4;4;16;Alta;Mitigar;UX / coordenacao;Validar prototipos e promover treinamento;Pouco engajamento no piloto;Participacao e feedback por sessao
+R04;Falhas de privacidade / controle;3;5;15;Alta;Evitar;DevOps / QA;Controle por perfis e testes de autorizacao;Acesso indevido detectado;Revisao de seguranca a cada release
+R05;Integracao ou e-mail indisponivel;3;3;9;Media;Transferir e mitigar;Desenvolvedor;SLA quando aplicavel e retentativas;Atraso do fornecedor ou API;Monitorar erros de entrega
+R06;Indisponibilidade de especialistas;3;4;12;Media;Mitigar;GP;Alocar cobertura e documentar tarefas;Conflito de alocacao;Revisao semanal de capacidade
+R07;Crescimento nao controlado do escopo;4;4;16;Alta;Evitar;GP / Sponsor;Exigir Change Request e avaliacao de impacto;Solicitacoes fora da EAP;Log de mudancas e aprovacao formal
+R08;Sem janela para piloto academico;4;3;12;Media;Mitigar;Coordenacao;Reservar janela alternativa;Turma nao confirma data;Confirmacao quinzenal da agenda
