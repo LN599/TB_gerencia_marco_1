@@ -12,7 +12,7 @@ Projeto acadêmico de planejamento e gerenciamento do **LabFlow**, um sistema we
 |---|---|---|
 | 1 (AP1) | Concepção, viabilidade, stakeholders, requisitos, escopo e planejamento inicial — entregue em 22/09/2026 | [Trabalho técnico (PDF)](Trabalho_Marco1_Luiz_Soares.pdf), [Relatório (PDF)](Relatorio_Incremento1_Luiz_Soares.pdf), [Modelo original (CSV)](Modelo.csv) |
 | 2 (AP2) | Cronograma, custos, EVM, qualidade, recursos, comunicação e riscos — documentos de planejamento atualizados em 19/10/2026 | [Relatório técnico em Markdown](docs/Incremento2_LabFlow.md), [Dados de cronograma](dados/Incremento2_Cronograma.csv), [Riscos](dados/Incremento2_Riscos.csv), [Comunicação](dados/Incremento2_Comunicacao.csv), [Issues](dados/Incremento2_Issues.csv) |
-| 3 (AP3) | Integração, respostas aos riscos, métodos ágeis e encerramento — **a planejar** | Previsto para dezembro/2026 |
+| 3 (AP3) | Carta, plano integrado, respostas aos riscos, aquisições, KPIs, mudanças, Kanban e encerramento — **documentação preliminar; pendente CR oficial e entrega SIGAA** | [Relatório técnico](docs/Incremento3_LabFlow.md), [Guia Kanban](docs/Incremento3_GitHub_Projects.md), [Respostas R01–R08](dados/Incremento3_Respostas_Riscos.csv) |
 
 **GitHub Projects:** https://github.com/users/LN599/projects/1  
 **Quadro — orientação de atualização:** [docs/Incremento2_GitHub_Projects.md](docs/Incremento2_GitHub_Projects.md)
